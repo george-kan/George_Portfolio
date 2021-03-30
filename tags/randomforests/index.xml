@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>randomforests on Data science portfolio</title>
+    <link>https://george-kan.github.io/George_Portfolio/tags/randomforests/</link>
+    <description>Recent content in randomforests on Data science portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/tags/randomforests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Analysis of chess games</title>
+      <link>https://george-kan.github.io/George_Portfolio/2021/03/project-1-analysis-of-chess-games/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/2021/03/project-1-analysis-of-chess-games/</guid>
+      <description>&lt;p&gt;EDA and predictive modeling of games played on &lt;a href=&#34;lichess.org&#34;&gt;lichess&lt;/a&gt; in the month of September 2020.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,13 +13,7 @@
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://george-kan.github.io/George_Portfolio/2021/03/project-1-analysis-of-chess-games/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/george-kan/chess_project&#34;&gt;Condensed and enriched&lt;/a&gt; the raw data found in the &lt;a href=&#34;https://database.lichess.org/&#34;&gt;lichess website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Created a publicly available &lt;a href=&#34;https://www.kaggle.com/noobiedatascientist/lichess-september-2020-data&#34;&gt;new dataset&lt;/a&gt; with all the new features&lt;/li&gt;
-&lt;li&gt;Analysed the popularity of different openings accross rating as well as their success rate for White and Black&lt;/li&gt;
-&lt;li&gt;Investigated the relationship between Elo rating and the occurance of inaccurate moves&lt;/li&gt;
-&lt;li&gt;Predicted the game outcome using Random Forests (R ranger package)&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;EDA and predictive modeling of games played on &lt;a href=&#34;lichess.org&#34;&gt;lichess&lt;/a&gt; in the month of September 2020.&lt;/p&gt;</description>
     </item>
     
   </channel>
