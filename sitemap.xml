@@ -5,6 +5,15 @@
     <loc>https://george-kan.github.io/George_Portfolio/categories/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/categories/chess/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/categories/cnn/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/tags/cnn/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://george-kan.github.io/George_Portfolio/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,7 +23,10 @@
     <loc>https://george-kan.github.io/George_Portfolio/tags/datavis/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://george-kan.github.io/George_Portfolio/categories/features/</loc>
+    <loc>https://george-kan.github.io/George_Portfolio/tags/dataviz/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/categories/grad-cam/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://george-kan.github.io/George_Portfolio/post/</loc>
@@ -23,10 +35,22 @@
     <loc>https://george-kan.github.io/George_Portfolio/2021/03/project-1-analysis-of-chess-games/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/2021/03/project-2-getting-hooked-with-pytorch-and-grad-cam/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/categories/pytorch/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/categories/random-forests/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://george-kan.github.io/George_Portfolio/tags/randomforests/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://george-kan.github.io/George_Portfolio/tags/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://george-kan.github.io/George_Portfolio/tags/torch/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://george-kan.github.io/George_Portfolio/archives/</loc>

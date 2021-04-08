@@ -16,5 +16,14 @@
       <description>&lt;p&gt;EDA and predictive modeling of games played on &lt;a href=&#34;lichess.org&#34;&gt;lichess&lt;/a&gt; in the month of September 2020.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Project 2: Getting hooked with PyTorch and Grad-CAM</title>
+      <link>https://george-kan.github.io/George_Portfolio/2021/03/project-2-getting-hooked-with-pytorch-and-grad-cam/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/2021/03/project-2-getting-hooked-with-pytorch-and-grad-cam/</guid>
+      <description>&lt;p&gt;Layer visualisation for a Resnet50 model using hooks from Pytorch and Grad-CAM&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

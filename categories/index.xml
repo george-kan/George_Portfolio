@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>chess</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/chess/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/chess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/cnn/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>data visualisation</title>
       <link>https://george-kan.github.io/George_Portfolio/categories/data-visualisation/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
@@ -17,11 +35,29 @@
     </item>
     
     <item>
-      <title>features</title>
-      <link>https://george-kan.github.io/George_Portfolio/categories/features/</link>
+      <title>Grad-CAM</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/grad-cam/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://george-kan.github.io/George_Portfolio/categories/features/</guid>
+      <guid>https://george-kan.github.io/George_Portfolio/categories/grad-cam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/pytorch/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random forests</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/random-forests/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/random-forests/</guid>
       <description></description>
     </item>
     

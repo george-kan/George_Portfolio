@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>cnn</title>
+      <link>https://george-kan.github.io/George_Portfolio/tags/cnn/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>datavis</title>
       <link>https://george-kan.github.io/George_Portfolio/tags/datavis/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
@@ -17,11 +26,29 @@
     </item>
     
     <item>
+      <title>dataviz</title>
+      <link>https://george-kan.github.io/George_Portfolio/tags/dataviz/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/tags/dataviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>randomforests</title>
       <link>https://george-kan.github.io/George_Portfolio/tags/randomforests/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://george-kan.github.io/George_Portfolio/tags/randomforests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>torch</title>
+      <link>https://george-kan.github.io/George_Portfolio/tags/torch/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/tags/torch/</guid>
       <description></description>
     </item>
     
