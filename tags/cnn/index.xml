@@ -6,13 +6,13 @@
     <description>Recent content in cnn on Data science portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/tags/cnn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/tags/cnn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Getting hooked with PyTorch and Grad-CAM</title>
-      <link>https://george-kan.github.io/George_Portfolio/2021/03/project-2-getting-hooked-with-pytorch-and-grad-cam/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <link>https://george-kan.github.io/George_Portfolio/2021/04/project-2-getting-hooked-with-pytorch-and-grad-cam/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://george-kan.github.io/George_Portfolio/2021/03/project-2-getting-hooked-with-pytorch-and-grad-cam/</guid>
+      <guid>https://george-kan.github.io/George_Portfolio/2021/04/project-2-getting-hooked-with-pytorch-and-grad-cam/</guid>
       <description>&lt;p&gt;Layer visualisation for a Resnet50 model using hooks from Pytorch and Grad-CAM&lt;/p&gt;</description>
     </item>
     

@@ -6,38 +6,56 @@
     <description>Recent content in Categories on Data science portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>chess</title>
-      <link>https://george-kan.github.io/George_Portfolio/categories/chess/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Boosting</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/boosting/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://george-kan.github.io/George_Portfolio/categories/chess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CNN</title>
-      <link>https://george-kan.github.io/George_Portfolio/categories/cnn/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://george-kan.github.io/George_Portfolio/categories/cnn/</guid>
+      <guid>https://george-kan.github.io/George_Portfolio/categories/boosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data visualisation</title>
       <link>https://george-kan.github.io/George_Portfolio/categories/data-visualisation/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://george-kan.github.io/George_Portfolio/categories/data-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Feature engineering</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/feature-engineering/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/feature-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature selection</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/feature-selection/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/feature-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/cnn/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Grad-CAM</title>
       <link>https://george-kan.github.io/George_Portfolio/categories/grad-cam/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://george-kan.github.io/George_Portfolio/categories/grad-cam/</guid>
       <description></description>
@@ -46,9 +64,18 @@
     <item>
       <title>PyTorch</title>
       <link>https://george-kan.github.io/George_Portfolio/categories/pytorch/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://george-kan.github.io/George_Portfolio/categories/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chess</title>
+      <link>https://george-kan.github.io/George_Portfolio/categories/chess/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/categories/chess/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,25 @@
     <description>Recent content on Data science portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://george-kan.github.io/George_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Feature selection in the NBA</title>
+      <link>https://george-kan.github.io/George_Portfolio/2021/06/project-3-feature-selection-in-the-nba/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/2021/06/project-3-feature-selection-in-the-nba/</guid>
+      <description>&lt;p&gt;Feature engineering and selection for predicting regular season NBA games with CatBoost&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Getting hooked with PyTorch and Grad-CAM</title>
+      <link>https://george-kan.github.io/George_Portfolio/2021/04/project-2-getting-hooked-with-pytorch-and-grad-cam/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://george-kan.github.io/George_Portfolio/2021/04/project-2-getting-hooked-with-pytorch-and-grad-cam/</guid>
+      <description>&lt;p&gt;Layer visualisation for a Resnet50 model using hooks from Pytorch and Grad-CAM&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Project 1: Analysis of chess games</title>
       <link>https://george-kan.github.io/George_Portfolio/2021/03/project-1-analysis-of-chess-games/</link>
@@ -14,15 +32,6 @@
       
       <guid>https://george-kan.github.io/George_Portfolio/2021/03/project-1-analysis-of-chess-games/</guid>
       <description>&lt;p&gt;EDA and predictive modeling of games played on &lt;a href=&#34;lichess.org&#34;&gt;lichess&lt;/a&gt; in the month of September 2020.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Project 2: Getting hooked with PyTorch and Grad-CAM</title>
-      <link>https://george-kan.github.io/George_Portfolio/2021/03/project-2-getting-hooked-with-pytorch-and-grad-cam/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://george-kan.github.io/George_Portfolio/2021/03/project-2-getting-hooked-with-pytorch-and-grad-cam/</guid>
-      <description>&lt;p&gt;Layer visualisation for a Resnet50 model using hooks from Pytorch and Grad-CAM&lt;/p&gt;</description>
     </item>
     
   </channel>
